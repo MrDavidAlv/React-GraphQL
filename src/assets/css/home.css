@@ -1,0 +1,32 @@
+ 
+
+.imagen-home {
+    margin: 2%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.imagen-home img{
+    width: 40%;
+}
+
+.frag_ { 
+    margin-left: 2%;
+    margin-right: 2%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+}
+
+.frag_img { 
+    margin: 4%;
+    width: 25%;
+}
+
+.frag_center {
+    text-align: center;
+    align-items: center;
+}

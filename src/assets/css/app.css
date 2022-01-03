@@ -1,0 +1,52 @@
+body{ 
+    background-color: black;
+  /* background-image: 
+    url(
+      "https://segarrajosep.files.wordpress.com/2020/01/o.gif?w=584"
+    );  */
+    /* background-position-x:center;
+    background-position-y:center; */
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position: center top;
+}
+#root {
+    white-space: nowrap; 
+    margin: 0px;
+    padding: 0px;
+}
+
+.parrafo{
+    padding-left: 3%;
+    padding-right: 3%;
+    text-align: justify;
+    color: blanchedalmond;
+    white-space: normal;
+}
+
+.mynavbar {
+    width: 100%;
+   position: fixed;
+   z-index: 3;
+}
+.mycontainer {   
+    position: relative; 
+    top: 91px;
+    margin-bottom: 264px;
+    overflow-y: auto;
+    overflow-x: clip;
+}
+.footer {
+    z-index: 3; 
+    top: 0px;
+    bottom: 0px;
+}
+.title-components {
+    color: wheat;
+    text-align: center;
+    align-items: center;
+    font-size: 40px;
+}
+
+ 
+
